@@ -1,0 +1,74 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_I2C_IR
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_I2C_IR	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	changeAddress	KEYWORD2
+	reset	KEYWORD2
+	getAddress	KEYWORD2
+	getVersion	KEYWORD2
+	getPullI2C	KEYWORD2
+	setPullI2C	KEYWORD2
+	setProtocol	KEYWORD2
+	setProtocol_TX	KEYWORD2
+	setProtocol_RX	KEYWORD2
+	getProtocol	KEYWORD2
+	getProtocol_TX	KEYWORD2
+	getProtocol_RX	KEYWORD2
+	seeProtocol_RX	KEYWORD2
+	setInterval	KEYWORD2
+	setInterval_TX	KEYWORD2
+	setInterval_RX	KEYWORD2
+	check	KEYWORD2
+	send	KEYWORD2
+	send32	KEYWORD2
+	wait	KEYWORD2
+	autoSend	KEYWORD2
+	autoSend32	KEYWORD2
+	autoStop	KEYWORD2
+	length	KEYWORD2
+	code32	KEYWORD2
+	modeRC6	KEYWORD2
+	code	KEYWORD2
+	address	KEYWORD2
+	command	KEYWORD2
+	key_press	KEYWORD2
+	device	KEYWORD2
+	track_F	KEYWORD2
+	track_R	KEYWORD2
+	track_L	KEYWORD2
+	forvard	KEYWORD2
+	right	KEYWORD2
+	left	KEYWORD2
+	gate	KEYWORD2
+	sign	KEYWORD2
+	sign_str	KEYWORD2
+	sign_int	KEYWORD2
+	sign_tab	KEYWORD2
+
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	SIGN_CAR_TRUCK	LITERAL1
+	SIGN_CAR_LIGHT	LITERAL1
+	SIGN_DISTANCE_050	LITERAL1
+	SIGN_DISTANCE_100	LITERAL1
+	SIGN_DISTANCE_150	LITERAL1
+	SIGN_DISTANCE_200	LITERAL1
+	SIGN_DISTANCE_250	LITERAL1
+	MODUL_TLIGHT	LITERAL1
+	MODUL_SIGN	LITERAL1
+	MODUL_CAR	LITERAL1
+	IR_UNDEFINED	LITERAL1
+	IR_NEC	LITERAL1
+	IR_SAMSUNG	LITERAL1
+	IR_SHARP	LITERAL1
+	IR_SIRC12	LITERAL1
+	IR_SIRC15	LITERAL1
+	IR_RC5	LITERAL1
+	IR_RC5X	LITERAL1
+	IR_RC6	LITERAL1
+	IR_IARDUINO	LITERAL1
