@@ -1,5 +1,5 @@
 //	Библиотека для работы с Trema модулем ИК-приёмник/передатчик, I2C-flash для Arduino: https://iarduino.ru/shop/Expansion-payments/ik-priemnik-peredatchik-flash-i2c.html
-//  Версия: 1.0.1
+//  Версия: 1.0.2
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/547.html
 //  Подробное описание функций бибилиотеки доступно по ссылке: https://wiki.iarduino.ru/page/ir-i2c/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
